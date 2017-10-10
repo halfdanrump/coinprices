@@ -1,0 +1,17 @@
+ipython
+jupyter
+matplotlib
+qtconsole
+PyQt5
+
+pandas
+h5py
+
+# trading data
+quandl
+
+# for coincheck websocket api
+websocket-client
+
+# for bitflyer lightning api
+pubnub
